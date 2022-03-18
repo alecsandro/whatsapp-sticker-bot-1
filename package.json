@@ -6,7 +6,7 @@
     "dev": "ts-node-dev --watch --transpile-only src/index.ts"
   },
   "dependencies": {
-    "@open-wa/wa-automate": "^4.30.12"
+    "@open-wa/wa-automate": "^4.32.9"
   },
   "devDependencies": {
     "ts-node-dev": "^1.1.8"
